@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Toleio",
+  "version": "0.2.9",
+  "description": "Chrome extension for Norwegian sign language dictionary",
+  "content_security_policy": {
+    "extension-pages": "default-src 'self'; object-src 'self"
+  },
+  "homepage_url": "https://toleio.no",
+  "author": "Paweł Otto",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["dist/script/bundle.js"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}

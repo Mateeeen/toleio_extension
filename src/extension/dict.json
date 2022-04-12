@@ -1,0 +1,3463 @@
+{
+  "timestampOfLastSignUpdate": "2019-07-10T00:00:00.000Z",
+  "signs": [
+    {
+      "id": "1",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/1.mp4",
+      "words": [
+        "1",
+        "en"
+      ]
+    },
+    {
+      "id": "2",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/2.mp4",
+      "words": [
+        "2",
+        "to"
+      ]
+    },
+    {
+      "id": "3",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/3.mp4",
+      "words": [
+        "3",
+        "tre"
+      ]
+    },
+    {
+      "id": "4",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/4.mp4",
+      "words": [
+        "4",
+        "fire"
+      ]
+    },
+    {
+      "id": "5",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/5.mp4",
+      "words": [
+        "5",
+        "fem"
+      ]
+    },
+    {
+      "id": "6",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/6.mp4",
+      "words": [
+        "6",
+        "seks"
+      ]
+    },
+    {
+      "id": "7",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/7.mp4",
+      "words": [
+        "7",
+        "syv"
+      ]
+    },
+    {
+      "id": "8",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/8.mp4",
+      "words": [
+        "8",
+        "åtte"
+      ]
+    },
+    {
+      "id": "9",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/9.mp4",
+      "words": [
+        "9",
+        "ni"
+      ]
+    },
+    {
+      "id": "10",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/10.mp4",
+      "words": [
+        "10",
+        "ti"
+      ]
+    },
+    {
+      "id": "20",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/20.mp4",
+      "words": [
+        "20",
+        "tyve"
+      ]
+    },
+    {
+      "id": "30",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/30.mp4",
+      "words": [
+        "30",
+        "tretti"
+      ]
+    },
+    {
+      "id": "37",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/37.mp4",
+      "words": [
+        "37"
+      ]
+    },
+    {
+      "id": "40",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/40.mp4",
+      "words": [
+        "40",
+        "førti"
+      ]
+    },
+    {
+      "id": "50",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/50.mp4",
+      "words": [
+        "50",
+        "femti"
+      ]
+    },
+    {
+      "id": "60",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/60.mp4",
+      "words": [
+        "60",
+        "seksti"
+      ]
+    },
+    {
+      "id": "64",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/64.mp4",
+      "words": [
+        "64"
+      ]
+    },
+    {
+      "id": "70",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/70.mp4",
+      "words": [
+        "70",
+        "søtti"
+      ]
+    },
+    {
+      "id": "80",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/80.mp4",
+      "words": [
+        "80",
+        "åtti"
+      ]
+    },
+    {
+      "id": "90",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/90.mp4",
+      "words": [
+        "90",
+        "nitti"
+      ]
+    },
+    {
+      "id": "100",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/100.mp4",
+      "words": [
+        "100",
+        "hundre"
+      ]
+    },
+    {
+      "id": "121",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/121.mp4",
+      "words": [
+        "121"
+      ]
+    },
+    {
+      "id": "200",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/200.mp4",
+      "words": [
+        "200",
+        "to hundre"
+      ]
+    },
+    {
+      "id": "300",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/300.mp4",
+      "words": [
+        "300",
+        "tre hundre"
+      ]
+    },
+    {
+      "id": "400",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/400.mp4",
+      "words": [
+        "400",
+        "fire hundre"
+      ]
+    },
+    {
+      "id": "500",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/500.mp4",
+      "words": [
+        "500",
+        "fem hundre"
+      ]
+    },
+    {
+      "id": "600",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/600.mp4",
+      "words": [
+        "600",
+        "seks hundre"
+      ]
+    },
+    {
+      "id": "624",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/624.mp4",
+      "words": [
+        "624"
+      ]
+    },
+    {
+      "id": "700",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/700.mp4",
+      "words": [
+        "700",
+        "syv hundre"
+      ]
+    },
+    {
+      "id": "800",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/800.mp4",
+      "words": [
+        "800",
+        "åtte hundre"
+      ]
+    },
+    {
+      "id": "900",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/900.mp4",
+      "words": [
+        "900",
+        "ni hundre"
+      ]
+    },
+    {
+      "id": "pek",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pek.mp4",
+      "words": [
+        "pek"
+      ]
+    },
+    {
+      "id": "pek-du",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pek-du.mp4",
+      "words": [
+        "pek-du"
+      ]
+    },
+    {
+      "id": "pek-jeg",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pek-jeg.mp4",
+      "words": [
+        "pek-jeg"
+      ]
+    },
+    {
+      "id": "Ingrid",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Ingrid.mp4",
+      "words": [
+        "Ingrid"
+      ]
+    },
+    {
+      "id": "Z",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Z.mp4",
+      "words": [
+        "Z"
+      ]
+    },
+    {
+      "id": "ha / har",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ha+%3A+har.mp4",
+      "words": [
+        "ha / har",
+        "ha",
+        "har"
+      ]
+    },
+    {
+      "id": "like / liker",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/like+%3A+liker.mp4",
+      "words": [
+        "like / liker",
+        "liker",
+        "liker"
+      ]
+    },
+    {
+      "id": "deres",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/deres.mp4",
+      "words": [
+        "deres"
+      ]
+    },
+    {
+      "id": "pek-den",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pek-den.mp4",
+      "words": [
+        "pek-den"
+      ]
+    },
+    {
+      "id": "pynte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pynte.mp4",
+      "words": [
+        "pynte"
+      ]
+    },
+    {
+      "id": "advent",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/advent.mp4",
+      "words": [
+        "advent"
+      ]
+    },
+    {
+      "id": "god",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/god.mp4",
+      "words": [
+        "god"
+      ]
+    },
+    {
+      "id": "grøt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/groet.mp4",
+      "words": [
+        "grøt"
+      ]
+    },
+    {
+      "id": "jul",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/jul.mp4",
+      "words": [
+        "jul"
+      ]
+    },
+    {
+      "id": "god jul",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/god+jul.mp4",
+      "words": [
+        "god jul"
+      ]
+    },
+    {
+      "id": "julaften",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/julaften.mp4",
+      "words": [
+        "julaften",
+        "juleaften",
+        "jul aften",
+        "jule aften"
+      ]
+    },
+    {
+      "id": "juletre",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/juletre.mp4",
+      "words": [
+        "juletre"
+      ]
+    },
+    {
+      "id": "nisse",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/nisse.mp4",
+      "words": [
+        "nisse"
+      ]
+    },
+    {
+      "id": "pakke / gave",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pakke+%3A+gave.mp4",
+      "words": [
+        "pakke / gave",
+        "pakke",
+        "gave"
+      ]
+    },
+    {
+      "id": "pepperkaker",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pepperkaker.mp4",
+      "words": [
+        "pepperkaker"
+      ]
+    },
+    {
+      "id": "hei",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hei.mp4",
+      "words": [
+        "hei"
+      ]
+    },
+    {
+      "id": "bra",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bra.mp4",
+      "words": [
+        "bra"
+      ]
+    },
+    {
+      "id": "du",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/du.mp4",
+      "words": [
+        "du"
+      ]
+    },
+    {
+      "id": "ha det",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ha+det.mp4",
+      "words": [
+        "ha det",
+        "hadet",
+        "hade",
+        "ha det bra!"
+      ]
+    },
+    {
+      "id": "jeg",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/jeg.mp4",
+      "words": [
+        "jeg"
+      ]
+    },
+    {
+      "id": "heter",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/heter.mp4",
+      "words": [
+        "heter"
+      ]
+    },
+    {
+      "id": "navn",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/navn.mp4",
+      "words": [
+        "navn"
+      ]
+    },
+    {
+      "id": "hyggelig",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hyggelig.mp4",
+      "words": [
+        "hyggelig",
+        "trivelig"
+      ]
+    },
+    {
+      "id": "møte (treffe)",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/moete+(treffe).mp4",
+      "words": [
+        "møte (treffe)",
+        "møte",
+        "møtes"
+      ]
+    },
+    {
+      "id": "A",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/A.mp4",
+      "words": [
+        "A",
+        "a"
+      ]
+    },
+    {
+      "id": "B",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/B.mp4",
+      "words": [
+        "B",
+        "b"
+      ]
+    },
+    {
+      "id": "C",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/C.mp4",
+      "words": [
+        "C",
+        "c"
+      ]
+    },
+    {
+      "id": "D",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/D.mp4",
+      "words": [
+        "D",
+        "d"
+      ]
+    },
+    {
+      "id": "E",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/E.mp4",
+      "words": [
+        "E",
+        "e"
+      ]
+    },
+    {
+      "id": "F",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/F.mp4",
+      "words": [
+        "F",
+        "f"
+      ]
+    },
+    {
+      "id": "G",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/G.mp4",
+      "words": [
+        "G",
+        "g"
+      ]
+    },
+    {
+      "id": "H",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/H.mp4",
+      "words": [
+        "H",
+        "h"
+      ]
+    },
+    {
+      "id": "I",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/I.mp4",
+      "words": [
+        "I",
+        "i"
+      ]
+    },
+    {
+      "id": "J",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/J.mp4",
+      "words": [
+        "J",
+        "j"
+      ]
+    },
+    {
+      "id": "K",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/K.mp4",
+      "words": [
+        "K",
+        "k"
+      ]
+    },
+    {
+      "id": "L",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/L.mp4",
+      "words": [
+        "L",
+        "l"
+      ]
+    },
+    {
+      "id": "M",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/M.mp4",
+      "words": [
+        "M",
+        "m"
+      ]
+    },
+    {
+      "id": "N",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/N.mp4",
+      "words": [
+        "N",
+        "n"
+      ]
+    },
+    {
+      "id": "O",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/O.mp4",
+      "words": [
+        "O",
+        "o"
+      ]
+    },
+    {
+      "id": "P",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/P.mp4",
+      "words": [
+        "P",
+        "p"
+      ]
+    },
+    {
+      "id": "Q",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Q.mp4",
+      "words": [
+        "Q",
+        "q"
+      ]
+    },
+    {
+      "id": "R",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/R.mp4",
+      "words": [
+        "R",
+        "r"
+      ]
+    },
+    {
+      "id": "S",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/S.mp4",
+      "words": [
+        "S",
+        "s"
+      ]
+    },
+    {
+      "id": "T",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/T.mp4",
+      "words": [
+        "T",
+        "t"
+      ]
+    },
+    {
+      "id": "U",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/U.mp4",
+      "words": [
+        "U",
+        "u"
+      ]
+    },
+    {
+      "id": "V",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/V.mp4",
+      "words": [
+        "V",
+        "v"
+      ]
+    },
+    {
+      "id": "W",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/W.mp4",
+      "words": [
+        "W",
+        "w"
+      ]
+    },
+    {
+      "id": "X",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/X.mp4",
+      "words": [
+        "X",
+        "x"
+      ]
+    },
+    {
+      "id": "Y",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Y.mp4",
+      "words": [
+        "Y",
+        "y"
+      ]
+    },
+    {
+      "id": "Æ",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/AE.mp4",
+      "words": [
+        "Æ",
+        "æ"
+      ]
+    },
+    {
+      "id": "Ø",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/OE.mp4",
+      "words": [
+        "Ø",
+        "ø"
+      ]
+    },
+    {
+      "id": "AA",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/AA.mp4",
+      "words": [
+        "Å",
+        "å"
+      ]
+    },
+    {
+      "id": "ja",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ja.mp4",
+      "words": [
+        "ja"
+      ]
+    },
+    {
+      "id": "nei",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/nei.mp4",
+      "words": [
+        "nei"
+      ]
+    },
+    {
+      "id": "kanskje",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kanskje.mp4",
+      "words": [
+        "kanskje"
+      ]
+    },
+    {
+      "id": "ok",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ok.mp4",
+      "words": [
+        "ok"
+      ]
+    },
+    {
+      "id": "vet",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vet.mp4",
+      "words": [
+        "vet"
+      ]
+    },
+    {
+      "id": "ikke",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ikke.mp4",
+      "words": [
+        "ikke"
+      ]
+    },
+    {
+      "id": "kan",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kan.mp4",
+      "words": [
+        "kan"
+      ]
+    },
+    {
+      "id": "unnskyld",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/unnskyld.mp4",
+      "words": [
+        "unnskyld"
+      ]
+    },
+    {
+      "id": "beklager",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/beklager.mp4",
+      "words": [
+        "beklager"
+      ]
+    },
+    {
+      "id": "hjelpe",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hjelpe.mp4",
+      "words": [
+        "hjelpe"
+      ]
+    },
+    {
+      "id": "vær saa snill",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vaer+saa+snill.mp4",
+      "words": [
+        "vær så snill"
+      ]
+    },
+    {
+      "id": "takk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/takk.mp4",
+      "words": [
+        "takk"
+      ]
+    },
+    {
+      "id": "tusen takk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/tusen+takk.mp4",
+      "words": [
+        "tusen takk"
+      ]
+    },
+    {
+      "id": "vann",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vann.mp4",
+      "words": [
+        "vann"
+      ]
+    },
+    {
+      "id": "mat",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mat.mp4",
+      "words": [
+        "mat"
+      ]
+    },
+    {
+      "id": "hus",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hus.mp4",
+      "words": [
+        "hus"
+      ]
+    },
+    {
+      "id": "jente",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/jente.mp4",
+      "words": [
+        "jente"
+      ]
+    },
+    {
+      "id": "gutt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gutt.mp4",
+      "words": [
+        "gutt"
+      ]
+    },
+    {
+      "id": "bil",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bil.mp4",
+      "words": [
+        "bil"
+      ]
+    },
+    {
+      "id": "telefon",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/telefon.mp4",
+      "words": [
+        "telefon"
+      ]
+    },
+    {
+      "id": "bok",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bok.mp4",
+      "words": [
+        "bok"
+      ]
+    },
+    {
+      "id": "skole",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/skole.mp4",
+      "words": [
+        "skole"
+      ]
+    },
+    {
+      "id": "klær",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/klaer.mp4",
+      "words": [
+        "klær"
+      ]
+    },
+    {
+      "id": "penger",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/penger.mp4",
+      "words": [
+        "penger"
+      ]
+    },
+    {
+      "id": "frokost",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/frokost.mp4",
+      "words": [
+        "frokost"
+      ]
+    },
+    {
+      "id": "brød",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/broed.mp4",
+      "words": [
+        "brød"
+      ]
+    },
+    {
+      "id": "smør",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/smoer.mp4",
+      "words": [
+        "smør"
+      ]
+    },
+    {
+      "id": "melk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/melk.mp4",
+      "words": [
+        "melk"
+      ]
+    },
+    {
+      "id": "lunsj",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lunsj.mp4",
+      "words": [
+        "lunsj"
+      ]
+    },
+    {
+      "id": "middag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/middag.mp4",
+      "words": [
+        "middag"
+      ]
+    },
+    {
+      "id": "kjøtt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kjoett.mp4",
+      "words": [
+        "kjøtt"
+      ]
+    },
+    {
+      "id": "fisk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/fisk.mp4",
+      "words": [
+        "fisk"
+      ]
+    },
+    {
+      "id": "grønnsaker",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/groennsaker.mp4",
+      "words": [
+        "grønnsaker"
+      ]
+    },
+    {
+      "id": "saus",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/saus.mp4",
+      "words": [
+        "saus"
+      ]
+    },
+    {
+      "id": "kaffe",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kaffe.mp4",
+      "words": [
+        "kaffe"
+      ]
+    },
+    {
+      "id": "te",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/te.mp4",
+      "words": [
+        "te"
+      ]
+    },
+    {
+      "id": "sjokolade",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sjokolade.mp4",
+      "words": [
+        "sjokolade"
+      ]
+    },
+    {
+      "id": "godteri",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/godteri.mp4",
+      "words": [
+        "godteri"
+      ]
+    },
+    {
+      "id": "gaa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gaa.mp4",
+      "words": [
+        "gå"
+      ]
+    },
+    {
+      "id": "sitte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sitte.mp4",
+      "words": [
+        "sitte"
+      ]
+    },
+    {
+      "id": "ferdig",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ferdig.mp4",
+      "words": [
+        "ferdig"
+      ]
+    },
+    {
+      "id": "spise",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/spise.mp4",
+      "words": [
+        "spise"
+      ]
+    },
+    {
+      "id": "drikke",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/drikke.mp4",
+      "words": [
+        "drikke"
+      ]
+    },
+    {
+      "id": "se",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/se.mp4",
+      "words": [
+        "se"
+      ]
+    },
+    {
+      "id": "høre",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hoere.mp4",
+      "words": [
+        "høre"
+      ]
+    },
+    {
+      "id": "prate",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/prate.mp4",
+      "words": [
+        "prate",
+        "snakke"
+      ]
+    },
+    {
+      "id": "familie",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/familie.mp4",
+      "words": [
+        "familie"
+      ]
+    },
+    {
+      "id": "mor / mamma",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mor+%3A+mamma.mp4",
+      "words": [
+        "mor / mamma",
+        "mor",
+        "mamma"
+      ]
+    },
+    {
+      "id": "far / pappa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/far+%3A+pappa.mp4",
+      "words": [
+        "far / pappa",
+        "far",
+        "pappa"
+      ]
+    },
+    {
+      "id": "foreldre",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/foreldre.mp4",
+      "words": [
+        "foreldre"
+      ]
+    },
+    {
+      "id": "søster",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/soester.mp4",
+      "words": [
+        "søster"
+      ]
+    },
+    {
+      "id": "bror",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bror.mp4",
+      "words": [
+        "bror"
+      ]
+    },
+    {
+      "id": "søsken",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/soesken.mp4",
+      "words": [
+        "søsken"
+      ]
+    },
+    {
+      "id": "storesøster",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/storesoester.mp4",
+      "words": [
+        "storesøster"
+      ]
+    },
+    {
+      "id": "lillebror",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lillebror.mp4",
+      "words": [
+        "lillebror"
+      ]
+    },
+    {
+      "id": "bestemor",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bestemor.mp4",
+      "words": [
+        "bestemor"
+      ]
+    },
+    {
+      "id": "bestefar",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bestefar.mp4",
+      "words": [
+        "bestefar"
+      ]
+    },
+    {
+      "id": "besteforeldre",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/besteforeldre.mp4",
+      "words": [
+        "besteforeldre"
+      ]
+    },
+    {
+      "id": "svart",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/svart.mp4",
+      "words": [
+        "svart"
+      ]
+    },
+    {
+      "id": "hvit",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hvit.mp4",
+      "words": [
+        "hvit"
+      ]
+    },
+    {
+      "id": "rød",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/roed.mp4",
+      "words": [
+        "rød"
+      ]
+    },
+    {
+      "id": "grønn",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/groenn.mp4",
+      "words": [
+        "grønn"
+      ]
+    },
+    {
+      "id": "gul",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gul.mp4",
+      "words": [
+        "gul"
+      ]
+    },
+    {
+      "id": "blaa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/blaa.mp4",
+      "words": [
+        "blå"
+      ]
+    },
+    {
+      "id": "lilla",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lilla.mp4",
+      "words": [
+        "lilla"
+      ]
+    },
+    {
+      "id": "oransje",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/oransje.mp4",
+      "words": [
+        "oransje",
+        "oransj"
+      ]
+    },
+    {
+      "id": "rosa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/rosa.mp4",
+      "words": [
+        "rosa"
+      ]
+    },
+    {
+      "id": "brun",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/brun.mp4",
+      "words": [
+        "brun"
+      ]
+    },
+    {
+      "id": "lys",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lys.mp4",
+      "words": [
+        "lys"
+      ]
+    },
+    {
+      "id": "mørk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/moerk.mp4",
+      "words": [
+        "mørk"
+      ]
+    },
+    {
+      "id": "farge",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/farge.mp4",
+      "words": [
+        "farge",
+        "farve"
+      ]
+    },
+    {
+      "id": "sulten",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sulten.mp4",
+      "words": [
+        "sulten"
+      ]
+    },
+    {
+      "id": "mett",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mett.mp4",
+      "words": [
+        "mett"
+      ]
+    },
+    {
+      "id": "tørst",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/toerst.mp4",
+      "words": [
+        "tørst"
+      ]
+    },
+    {
+      "id": "trøtt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/troett.mp4",
+      "words": [
+        "trøtt"
+      ]
+    },
+    {
+      "id": "sliten",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sliten.mp4",
+      "words": [
+        "sliten"
+      ]
+    },
+    {
+      "id": "vaaken",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vaaken.mp4",
+      "words": [
+        "våken"
+      ]
+    },
+    {
+      "id": "syk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/syk.mp4",
+      "words": [
+        "syk"
+      ]
+    },
+    {
+      "id": "frisk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/frisk.mp4",
+      "words": [
+        "frisk"
+      ]
+    },
+    {
+      "id": "hvem",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hvem.mp4",
+      "words": [
+        "hvem"
+      ]
+    },
+    {
+      "id": "hvor",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hvor.mp4",
+      "words": [
+        "hvor"
+      ]
+    },
+    {
+      "id": "naar",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/naar.mp4",
+      "words": [
+        "når"
+      ]
+    },
+    {
+      "id": "hvis",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hvis.mp4",
+      "words": [
+        "hvis"
+      ]
+    },
+    {
+      "id": "hva",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hva.mp4",
+      "words": [
+        "hva"
+      ]
+    },
+    {
+      "id": "hvordan",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hvordan.mp4",
+      "words": [
+        "hvordan"
+      ]
+    },
+    {
+      "id": "hvorfor",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hvorfor.mp4",
+      "words": [
+        "hvorfor"
+      ]
+    },
+    {
+      "id": "hvilken",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hvilken.mp4",
+      "words": [
+        "hvilken"
+      ]
+    },
+    {
+      "id": "mandag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mandag.mp4",
+      "words": [
+        "mandag"
+      ]
+    },
+    {
+      "id": "tirsdag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/tirsdag.mp4",
+      "words": [
+        "tirsdag"
+      ]
+    },
+    {
+      "id": "onsdag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/onsdag.mp4",
+      "words": [
+        "onsdag"
+      ]
+    },
+    {
+      "id": "torsdag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/torsdag.mp4",
+      "words": [
+        "torsdag"
+      ]
+    },
+    {
+      "id": "fredag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/fredag.mp4",
+      "words": [
+        "fredag"
+      ]
+    },
+    {
+      "id": "lørdag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/loerdag.mp4",
+      "words": [
+        "lørdag"
+      ]
+    },
+    {
+      "id": "søndag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/soendag.mp4",
+      "words": [
+        "søndag"
+      ]
+    },
+    {
+      "id": "person",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/person.mp4",
+      "words": [
+        "person"
+      ]
+    },
+    {
+      "id": "baby",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/baby.mp4",
+      "words": [
+        "baby"
+      ]
+    },
+    {
+      "id": "barn",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/barn.mp4",
+      "words": [
+        "barn"
+      ]
+    },
+    {
+      "id": "ungdom",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ungdom.mp4",
+      "words": [
+        "ungdom"
+      ]
+    },
+    {
+      "id": "voksen",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/voksen.mp4",
+      "words": [
+        "voksen"
+      ]
+    },
+    {
+      "id": "ung",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ung.mp4",
+      "words": [
+        "ung"
+      ]
+    },
+    {
+      "id": "gammel",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gammel.mp4",
+      "words": [
+        "gammel"
+      ]
+    },
+    {
+      "id": "dame",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/dame.mp4",
+      "words": [
+        "dame"
+      ]
+    },
+    {
+      "id": "mann",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mann.mp4",
+      "words": [
+        "mann"
+      ]
+    },
+    {
+      "id": "vi / oss",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vi+%3A+oss.mp4",
+      "words": [
+        "vi / oss"
+      ]
+    },
+    {
+      "id": "alle",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/alle.mp4",
+      "words": [
+        "alle"
+      ]
+    },
+    {
+      "id": "de",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/de.mp4",
+      "words": [
+        "de"
+      ]
+    },
+    {
+      "id": "deg",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/deg.mp4",
+      "words": [
+        "deg"
+      ]
+    },
+    {
+      "id": "din / ditt / hans / hennes",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/din+%3A+ditt+%3A+hans+%3A+hennes.mp4",
+      "words": [
+        "din / ditt / hans / hennes",
+        "din",
+        "ditt",
+        "hans",
+        "hennes"
+      ]
+    },
+    {
+      "id": "han / hun",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/han+%3A+hun.mp4",
+      "words": [
+        "han / hun",
+        "hun / han",
+        "han",
+        "hun"
+      ]
+    },
+    {
+      "id": "meg",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/meg.mp4",
+      "words": [
+        "meg"
+      ]
+    },
+    {
+      "id": "min / mitt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/min+%3A+mitt.mp4",
+      "words": [
+        "min / mitt",
+        "min",
+        "mitt"
+      ]
+    },
+    {
+      "id": "vaares",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vaares.mp4",
+      "words": [
+        "vaares"
+      ]
+    },
+    {
+      "id": "følelser",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/foelelser.mp4",
+      "words": [
+        "følelser"
+      ]
+    },
+    {
+      "id": "sint",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sint.mp4",
+      "words": [
+        "sint"
+      ]
+    },
+    {
+      "id": "glad",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/glad.mp4",
+      "words": [
+        "glad"
+      ]
+    },
+    {
+      "id": "sur",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sur.mp4",
+      "words": [
+        "sur"
+      ]
+    },
+    {
+      "id": "trist",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/trist.mp4",
+      "words": [
+        "trist",
+        "lei",
+        "lei seg",
+        "lei deg"
+      ]
+    },
+    {
+      "id": "nervøs",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/nervoes.mp4",
+      "words": [
+        "nervøs"
+      ]
+    },
+    {
+      "id": "graate",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/graate.mp4",
+      "words": [
+        "gråte"
+      ]
+    },
+    {
+      "id": "le",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/le.mp4",
+      "words": [
+        "le"
+      ]
+    },
+    {
+      "id": "en",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/en.mp4",
+      "words": [
+        "en"
+      ]
+    },
+    {
+      "id": "faa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/faa.mp4",
+      "words": [
+        "få"
+      ]
+    },
+    {
+      "id": "litt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/litt.mp4",
+      "words": [
+        "litt"
+      ]
+    },
+    {
+      "id": "sjelden",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sjelden.mp4",
+      "words": [
+        "sjelden"
+      ]
+    },
+    {
+      "id": "mange",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mange.mp4",
+      "words": [
+        "mange"
+      ]
+    },
+    {
+      "id": "mye",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mye.mp4",
+      "words": [
+        "mye"
+      ]
+    },
+    {
+      "id": "ofte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ofte.mp4",
+      "words": [
+        "ofte"
+      ]
+    },
+    {
+      "id": "kort",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kort.mp4",
+      "words": [
+        "kort"
+      ]
+    },
+    {
+      "id": "lang",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lang.mp4",
+      "words": [
+        "lang"
+      ]
+    },
+    {
+      "id": "lav",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lav.mp4",
+      "words": [
+        "lav"
+      ]
+    },
+    {
+      "id": "høy",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hoey.mp4",
+      "words": [
+        "høy"
+      ]
+    },
+    {
+      "id": "ingenting",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ingenting.mp4",
+      "words": [
+        "ingenting"
+      ]
+    },
+    {
+      "id": "alt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/alt.mp4",
+      "words": [
+        "alt"
+      ]
+    },
+    {
+      "id": "kamp",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kamp.mp4",
+      "words": [
+        "kamp"
+      ]
+    },
+    {
+      "id": "arrangement",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/arrangement.mp4",
+      "words": [
+        "arrangement",
+        "arrangemang"
+      ]
+    },
+    {
+      "id": "bibliotek",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bibliotek.mp4",
+      "words": [
+        "bibliotek",
+        "biblotek"
+      ]
+    },
+    {
+      "id": "film",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/film.mp4",
+      "words": [
+        "film"
+      ]
+    },
+    {
+      "id": "idrett",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/idrett.mp4",
+      "words": [
+        "idrett"
+      ]
+    },
+    {
+      "id": "kino",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kino.mp4",
+      "words": [
+        "kino"
+      ]
+    },
+    {
+      "id": "konsert",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/konsert.mp4",
+      "words": [
+        "konsert"
+      ]
+    },
+    {
+      "id": "kultur",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kultur.mp4",
+      "words": [
+        "kultur"
+      ]
+    },
+    {
+      "id": "kunst",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kunst.mp4",
+      "words": [
+        "kunst"
+      ]
+    },
+    {
+      "id": "museum",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/museum.mp4",
+      "words": [
+        "museum"
+      ]
+    },
+    {
+      "id": "musikk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/musikk.mp4",
+      "words": [
+        "musikk"
+      ]
+    },
+    {
+      "id": "sang",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sang.mp4",
+      "words": [
+        "sang"
+      ]
+    },
+    {
+      "id": "teater",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/teater.mp4",
+      "words": [
+        "teater"
+      ]
+    },
+    {
+      "id": "hytte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hytte.mp4",
+      "words": [
+        "hytte"
+      ]
+    },
+    {
+      "id": "butikk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/butikk.mp4",
+      "words": [
+        "butikk"
+      ]
+    },
+    {
+      "id": "by / byen",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/by+%3A+byen.mp4",
+      "words": [
+        "by / byen",
+        "by",
+        "byen",
+        "sentrum"
+      ]
+    },
+    {
+      "id": "cafe",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/cafe.mp4",
+      "words": [
+        "café",
+        "cafe",
+        "kafe",
+        "kafé"
+      ]
+    },
+    {
+      "id": "hjemme",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hjemme.mp4",
+      "words": [
+        "hjemme"
+      ]
+    },
+    {
+      "id": "jobb",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/jobb.mp4",
+      "words": [
+        "jobb"
+      ]
+    },
+    {
+      "id": "park",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/park.mp4",
+      "words": [
+        "park"
+      ]
+    },
+    {
+      "id": "skogen",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/skogen.mp4",
+      "words": [
+        "skogen"
+      ]
+    },
+    {
+      "id": "sted",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sted.mp4",
+      "words": [
+        "sted"
+      ]
+    },
+    {
+      "id": "aar",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/aar.mp4",
+      "words": [
+        "år"
+      ]
+    },
+    {
+      "id": "dag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/dag.mp4",
+      "words": [
+        "dag"
+      ]
+    },
+    {
+      "id": "ettermiddag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ettermiddag.mp4",
+      "words": [
+        "ettermiddag"
+      ]
+    },
+    {
+      "id": "formiddag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/formiddag.mp4",
+      "words": [
+        "formiddag"
+      ]
+    },
+    {
+      "id": "god morgen",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/god+morgen.mp4",
+      "words": [
+        "god morgen"
+      ]
+    },
+    {
+      "id": "helg",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/helg.mp4",
+      "words": [
+        "helg"
+      ]
+    },
+    {
+      "id": "i dag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/i+dag.mp4",
+      "words": [
+        "i dag"
+      ]
+    },
+    {
+      "id": "i gaar",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/i+gaar.mp4",
+      "words": [
+        "i går"
+      ]
+    },
+    {
+      "id": "i morgen",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/i+morgen.mp4",
+      "words": [
+        "i morgen"
+      ]
+    },
+    {
+      "id": "kveld",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kveld.mp4",
+      "words": [
+        "kveld"
+      ]
+    },
+    {
+      "id": "maaned",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/maaned.mp4",
+      "words": [
+        "måned"
+      ]
+    },
+    {
+      "id": "morgen",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/morgen.mp4",
+      "words": [
+        "morgen"
+      ]
+    },
+    {
+      "id": "natt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/natt.mp4",
+      "words": [
+        "natt"
+      ]
+    },
+    {
+      "id": "uke",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/uke.mp4",
+      "words": [
+        "uke"
+      ]
+    },
+    {
+      "id": "minutter",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/minutter.mp4",
+      "words": [
+        "minutter"
+      ]
+    },
+    {
+      "id": "halv",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/halv.mp4",
+      "words": [
+        "halv"
+      ]
+    },
+    {
+      "id": "kvart",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kvart.mp4",
+      "words": [
+        "kvart"
+      ]
+    },
+    {
+      "id": "klokka",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/klokka.mp4",
+      "words": [
+        "klokke",
+        "klokka",
+        "klokken"
+      ]
+    },
+    {
+      "id": "over",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/over.mp4",
+      "words": [
+        "over"
+      ]
+    },
+    {
+      "id": "paa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/paa.mp4",
+      "words": [
+        "på"
+      ]
+    },
+    {
+      "id": "sekunder",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sekunder.mp4",
+      "words": [
+        "sekunder"
+      ]
+    },
+    {
+      "id": "tid",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/tid.mp4",
+      "words": [
+        "tid"
+      ]
+    },
+    {
+      "id": "time",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/time.mp4",
+      "words": [
+        "time"
+      ]
+    },
+    {
+      "id": "lese",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lese.mp4",
+      "words": [
+        "lese"
+      ]
+    },
+    {
+      "id": "bytte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bytte.mp4",
+      "words": [
+        "bytte"
+      ]
+    },
+    {
+      "id": "dele",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/dele.mp4",
+      "words": [
+        "dele"
+      ]
+    },
+    {
+      "id": "faa (motta)",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/faa+(motta).mp4",
+      "words": [
+        "få / motta",
+        "få",
+        "motta"
+      ]
+    },
+    {
+      "id": "gi",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gi.mp4",
+      "words": [
+        "gi"
+      ]
+    },
+    {
+      "id": "kjoepe",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kjoepe.mp4",
+      "words": [
+        "kjøpe"
+      ]
+    },
+    {
+      "id": "leke",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/leke.mp4",
+      "words": [
+        "leke"
+      ]
+    },
+    {
+      "id": "skrive",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/skrive.mp4",
+      "words": [
+        "skrive"
+      ]
+    },
+    {
+      "id": "vente",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vente.mp4",
+      "words": [
+        "vente"
+      ]
+    },
+    {
+      "id": "leilighet",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/leilighet.mp4",
+      "words": [
+        "leilighet"
+      ]
+    },
+    {
+      "id": "bad",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bad.mp4",
+      "words": [
+        "bad"
+      ]
+    },
+    {
+      "id": "doer (substantiv)",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/doer+(substantiv).mp4",
+      "words": [
+        "dør (subst.)",
+        "dør"
+      ]
+    },
+    {
+      "id": "kjoekken",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kjoekken.mp4",
+      "words": [
+        "kjøkken"
+      ]
+    },
+    {
+      "id": "rom",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/rom.mp4",
+      "words": [
+        "rom"
+      ]
+    },
+    {
+      "id": "soverom",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/soverom.mp4",
+      "words": [
+        "soverom"
+      ]
+    },
+    {
+      "id": "stue",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/stue.mp4",
+      "words": [
+        "stue"
+      ]
+    },
+    {
+      "id": "vindu",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vindu.mp4",
+      "words": [
+        "vindu"
+      ]
+    },
+    {
+      "id": "Juli",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Juli.mp4",
+      "words": [
+        "Juli"
+      ]
+    },
+    {
+      "id": "April",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/April.mp4",
+      "words": [
+        "April"
+      ]
+    },
+    {
+      "id": "August",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/August.mp4",
+      "words": [
+        "August"
+      ]
+    },
+    {
+      "id": "Desember",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Desember.mp4",
+      "words": [
+        "Desember"
+      ]
+    },
+    {
+      "id": "Februar",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Februar.mp4",
+      "words": [
+        "Februar"
+      ]
+    },
+    {
+      "id": "Januar",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Januar.mp4",
+      "words": [
+        "Januar"
+      ]
+    },
+    {
+      "id": "Juni",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Juni.mp4",
+      "words": [
+        "Juni"
+      ]
+    },
+    {
+      "id": "Mai",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Mai.mp4",
+      "words": [
+        "Mai"
+      ]
+    },
+    {
+      "id": "Mars",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Mars.mp4",
+      "words": [
+        "Mars"
+      ]
+    },
+    {
+      "id": "November",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/November.mp4",
+      "words": [
+        "November"
+      ]
+    },
+    {
+      "id": "Oktober",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/Oktober.mp4",
+      "words": [
+        "Oktober"
+      ]
+    },
+    {
+      "id": "September",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/September.mp4",
+      "words": [
+        "September"
+      ]
+    },
+    {
+      "id": "fin",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/fin.mp4",
+      "words": [
+        "fin"
+      ]
+    },
+    {
+      "id": "daarlig",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/daarlig.mp4",
+      "words": [
+        "dårlig"
+      ]
+    },
+    {
+      "id": "dum",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/dum.mp4",
+      "words": [
+        "dum"
+      ]
+    },
+    {
+      "id": "ekkel",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ekkel.mp4",
+      "words": [
+        "ekkel"
+      ]
+    },
+    {
+      "id": "fael",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/fael.mp4",
+      "words": [
+        "fæl"
+      ]
+    },
+    {
+      "id": "fantastisk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/fantastisk.mp4",
+      "words": [
+        "fantastisk"
+      ]
+    },
+    {
+      "id": "flott",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/flott.mp4",
+      "words": [
+        "flott"
+      ]
+    },
+    {
+      "id": "rar",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/rar.mp4",
+      "words": [
+        "rar"
+      ]
+    },
+    {
+      "id": "smart",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/smart.mp4",
+      "words": [
+        "smart"
+      ]
+    },
+    {
+      "id": "liker",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/liker.mp4",
+      "words": [
+        "liker",
+        "like"
+      ]
+    },
+    {
+      "id": "argument",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/argument.mp4",
+      "words": [
+        "argument"
+      ]
+    },
+    {
+      "id": "enig",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/enig.mp4",
+      "words": [
+        "enig"
+      ]
+    },
+    {
+      "id": "favoritt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/favoritt.mp4",
+      "words": [
+        "favoritt"
+      ]
+    },
+    {
+      "id": "forstaa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/forstaa.mp4",
+      "words": [
+        "forstå"
+      ]
+    },
+    {
+      "id": "ikke enig",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ikke+enig.mp4",
+      "words": [
+        "ikke enig"
+      ]
+    },
+    {
+      "id": "mene",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mene.mp4",
+      "words": [
+        "mene"
+      ]
+    },
+    {
+      "id": "misliker / liker ikke",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/misliker+%3A+liker+ikke.mp4",
+      "words": [
+        "misliker / liker ikke"
+      ]
+    },
+    {
+      "id": "oppfatte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/oppfatte.mp4",
+      "words": [
+        "oppfatte"
+      ]
+    },
+    {
+      "id": "paastand",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/paastand.mp4",
+      "words": [
+        "påstand"
+      ]
+    },
+    {
+      "id": "uenig",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/uenig.mp4",
+      "words": [
+        "uenig"
+      ]
+    },
+    {
+      "id": "naa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/naa.mp4",
+      "words": [
+        "nå"
+      ]
+    },
+    {
+      "id": "etter",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/etter.mp4",
+      "words": [
+        "etter"
+      ]
+    },
+    {
+      "id": "etterpaa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/etterpaa.mp4",
+      "words": [
+        "etterpå"
+      ]
+    },
+    {
+      "id": "foer",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/foer.mp4",
+      "words": [
+        "før"
+      ]
+    },
+    {
+      "id": "igjen",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/igjen.mp4",
+      "words": [
+        "igjen"
+      ]
+    },
+    {
+      "id": "for lenge siden",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/for+lenge+siden.mp4",
+      "words": [
+        "for lenge siden"
+      ]
+    },
+    {
+      "id": "senere",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/senere.mp4",
+      "words": [
+        "senere"
+      ]
+    },
+    {
+      "id": "snart",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/snart.mp4",
+      "words": [
+        "snart"
+      ]
+    },
+    {
+      "id": "glass",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/glass.mp4",
+      "words": [
+        "glass"
+      ]
+    },
+    {
+      "id": "avis",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/avis.mp4",
+      "words": [
+        "avis"
+      ]
+    },
+    {
+      "id": "bag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bag.mp4",
+      "words": [
+        "bag"
+      ]
+    },
+    {
+      "id": "bord",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bord.mp4",
+      "words": [
+        "bord"
+      ]
+    },
+    {
+      "id": "buss",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/buss.mp4",
+      "words": [
+        "buss"
+      ]
+    },
+    {
+      "id": "data",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/data.mp4",
+      "words": [
+        "data"
+      ]
+    },
+    {
+      "id": "sekk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sekk.mp4",
+      "words": [
+        "sekk"
+      ]
+    },
+    {
+      "id": "stol",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/stol.mp4",
+      "words": [
+        "stol"
+      ]
+    },
+    {
+      "id": "tallerken",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/tallerken.mp4",
+      "words": [
+        "tallerken"
+      ]
+    },
+    {
+      "id": "vei",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vei.mp4",
+      "words": [
+        "vei"
+      ]
+    },
+    {
+      "id": "bak",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bak.mp4",
+      "words": [
+        "bak"
+      ]
+    },
+    {
+      "id": "der",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/der.mp4",
+      "words": [
+        "der"
+      ]
+    },
+    {
+      "id": "foran",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/foran.mp4",
+      "words": [
+        "foran"
+      ]
+    },
+    {
+      "id": "her",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/her.mp4",
+      "words": [
+        "her"
+      ]
+    },
+    {
+      "id": "inne",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/inne.mp4",
+      "words": [
+        "inne"
+      ]
+    },
+    {
+      "id": "over (versjon 2)",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/over+(versjon+2).mp4",
+      "words": [
+        "over (f.eks. \"der over taket\")",
+        "over"
+      ]
+    },
+    {
+      "id": "under",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/under.mp4",
+      "words": [
+        "under"
+      ]
+    },
+    {
+      "id": "ute",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ute.mp4",
+      "words": [
+        "ute"
+      ]
+    },
+    {
+      "id": "ved siden av",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ved+siden+av.mp4",
+      "words": [
+        "ved siden av"
+      ]
+    },
+    {
+      "id": "dyr",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/dyr.mp4",
+      "words": [
+        "dyr"
+      ]
+    },
+    {
+      "id": "elefant",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/elefant.mp4",
+      "words": [
+        "elefant"
+      ]
+    },
+    {
+      "id": "fugl",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/fugl.mp4",
+      "words": [
+        "fugl"
+      ]
+    },
+    {
+      "id": "gris",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gris.mp4",
+      "words": [
+        "gris"
+      ]
+    },
+    {
+      "id": "hest",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hest.mp4",
+      "words": [
+        "hest"
+      ]
+    },
+    {
+      "id": "hund",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hund.mp4",
+      "words": [
+        "hund"
+      ]
+    },
+    {
+      "id": "katt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/katt.mp4",
+      "words": [
+        "katt"
+      ]
+    },
+    {
+      "id": "ku",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ku.mp4",
+      "words": [
+        "ku"
+      ]
+    },
+    {
+      "id": "loeve",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/loeve.mp4",
+      "words": [
+        "løve"
+      ]
+    },
+    {
+      "id": "sau",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sau.mp4",
+      "words": [
+        "sau"
+      ]
+    },
+    {
+      "id": "kunstner",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kunstner.mp4",
+      "words": [
+        "kunstner"
+      ]
+    },
+    {
+      "id": "butikksjef",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/butikksjef.mp4",
+      "words": [
+        "butikksjef"
+      ]
+    },
+    {
+      "id": "doktor",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/doktor.mp4",
+      "words": [
+        "doktor"
+      ]
+    },
+    {
+      "id": "elektriker",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/elektriker.mp4",
+      "words": [
+        "elektriker"
+      ]
+    },
+    {
+      "id": "forsker",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/forsker.mp4",
+      "words": [
+        "forsker"
+      ]
+    },
+    {
+      "id": "ingenioer",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/ingenioer.mp4",
+      "words": [
+        "ingeniør"
+      ]
+    },
+    {
+      "id": "kokk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kokk.mp4",
+      "words": [
+        "kokk"
+      ]
+    },
+    {
+      "id": "laerer",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/laerer.mp4",
+      "words": [
+        "lærer"
+      ]
+    },
+    {
+      "id": "selger",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/selger.mp4",
+      "words": [
+        "selger"
+      ]
+    },
+    {
+      "id": "sykepleier",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sykepleier.mp4",
+      "words": [
+        "sykepleier"
+      ]
+    },
+    {
+      "id": "kjole",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kjole.mp4",
+      "words": [
+        "kjole"
+      ]
+    },
+    {
+      "id": "belte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/belte.mp4",
+      "words": [
+        "belte"
+      ]
+    },
+    {
+      "id": "bukse",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bukse.mp4",
+      "words": [
+        "bukse"
+      ]
+    },
+    {
+      "id": "genser",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/genser.mp4",
+      "words": [
+        "genser"
+      ]
+    },
+    {
+      "id": "jakke",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/jakke.mp4",
+      "words": [
+        "jakke"
+      ]
+    },
+    {
+      "id": "skjorte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/skjorte.mp4",
+      "words": [
+        "skjorte",
+        "sjorte"
+      ]
+    },
+    {
+      "id": "sko",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sko.mp4",
+      "words": [
+        "sko"
+      ]
+    },
+    {
+      "id": "sokker",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sokker.mp4",
+      "words": [
+        "sokker"
+      ]
+    },
+    {
+      "id": "t-skjorte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/t-skjorte.mp4",
+      "words": [
+        "t-skjorte"
+      ]
+    },
+    {
+      "id": "klasse",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/klasse.mp4",
+      "words": [
+        "klasse"
+      ]
+    },
+    {
+      "id": "elev",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/elev.mp4",
+      "words": [
+        "elev"
+      ]
+    },
+    {
+      "id": "fag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/fag.mp4",
+      "words": [
+        "fag"
+      ]
+    },
+    {
+      "id": "friminutt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/friminutt.mp4",
+      "words": [
+        "friminutt"
+      ]
+    },
+    {
+      "id": "lekse",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lekse.mp4",
+      "words": [
+        "lekse"
+      ]
+    },
+    {
+      "id": "tavle",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/tavle.mp4",
+      "words": [
+        "tavle"
+      ]
+    },
+    {
+      "id": "undervisning",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/undervisning.mp4",
+      "words": [
+        "undervisning"
+      ]
+    },
+    {
+      "id": "besoek",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/besoek.mp4",
+      "words": [
+        "besøk"
+      ]
+    },
+    {
+      "id": "bestevenner",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bestevenner.mp4",
+      "words": [
+        "bestevenner"
+      ]
+    },
+    {
+      "id": "inkludere",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/inkludere.mp4",
+      "words": [
+        "inkludere"
+      ]
+    },
+    {
+      "id": "moro",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/moro.mp4",
+      "words": [
+        "moro",
+        "morro"
+      ]
+    },
+    {
+      "id": "sammen",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sammen.mp4",
+      "words": [
+        "sammen"
+      ]
+    },
+    {
+      "id": "sosial",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sosial.mp4",
+      "words": [
+        "sosial",
+        "sosialt"
+      ]
+    },
+    {
+      "id": "venner",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/venner.mp4",
+      "words": [
+        "venner",
+        "venn"
+      ]
+    },
+    {
+      "id": "vil",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vil.mp4",
+      "words": [
+        "vil"
+      ]
+    },
+    {
+      "id": "foele",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/foele.mp4",
+      "words": [
+        "føle"
+      ]
+    },
+    {
+      "id": "maa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/maa.mp4",
+      "words": [
+        "må"
+      ]
+    },
+    {
+      "id": "savne",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/savne.mp4",
+      "words": [
+        "savne",
+        "savner"
+      ]
+    },
+    {
+      "id": "skal",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/skal.mp4",
+      "words": [
+        "skal"
+      ]
+    },
+    {
+      "id": "trenge",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/trenge.mp4",
+      "words": [
+        "trenge",
+        "trenger"
+      ]
+    },
+    {
+      "id": "17 mai",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/17+mai.mp4",
+      "words": [
+        "17. mai",
+        "17 mai"
+      ]
+    },
+    {
+      "id": "bursdag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/bursdag.mp4",
+      "words": [
+        "bursdag"
+      ]
+    },
+    {
+      "id": "foedselsdag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/foedselsdag.mp4",
+      "words": [
+        "fødselsdag"
+      ]
+    },
+    {
+      "id": "halloween",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/halloween.mp4",
+      "words": [
+        "halloween"
+      ]
+    },
+    {
+      "id": "paaske",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/paaske.mp4",
+      "words": [
+        "påske"
+      ]
+    },
+    {
+      "id": "pinse",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pinse.mp4",
+      "words": [
+        "pinse"
+      ]
+    },
+    {
+      "id": "sankthans",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sankthans.mp4",
+      "words": [
+        "sankthans",
+        "st hans"
+      ]
+    },
+    {
+      "id": "gjemsel",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gjemsel.mp4",
+      "words": [
+        "gjemsel"
+      ]
+    },
+    {
+      "id": "hoppetau",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hoppetau.mp4",
+      "words": [
+        "hoppetau"
+      ]
+    },
+    {
+      "id": "huske",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/huske.mp4",
+      "words": [
+        "huske (lekestativ)",
+        "huske",
+        "gynge"
+      ]
+    },
+    {
+      "id": "kanonball",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kanonball.mp4",
+      "words": [
+        "kanonball"
+      ]
+    },
+    {
+      "id": "lekeplass",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lekeplass.mp4",
+      "words": [
+        "lekeplass"
+      ]
+    },
+    {
+      "id": "sisten",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sisten.mp4",
+      "words": [
+        "sisten"
+      ]
+    },
+    {
+      "id": "sklie",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sklie.mp4",
+      "words": [
+        "sklie"
+      ]
+    },
+    {
+      "id": "kilometer",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kilometer.mp4",
+      "words": [
+        "kilometer",
+        "km"
+      ]
+    },
+    {
+      "id": "centimeter",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/centimeter.mp4",
+      "words": [
+        "centimeter",
+        "cm"
+      ]
+    },
+    {
+      "id": "grader",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/grader.mp4",
+      "words": [
+        "grader"
+      ]
+    },
+    {
+      "id": "gram",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gram.mp4",
+      "words": [
+        "gram"
+      ]
+    },
+    {
+      "id": "kilo",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kilo.mp4",
+      "words": [
+        "kilo",
+        "kg"
+      ]
+    },
+    {
+      "id": "meter",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/meter.mp4",
+      "words": [
+        "meter"
+      ]
+    },
+    {
+      "id": "milimeter",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/milimeter.mp4",
+      "words": [
+        "milimeter",
+        "millimeter"
+      ]
+    },
+    {
+      "id": "volum",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/volum.mp4",
+      "words": [
+        "volum"
+      ]
+    },
+    {
+      "id": "foeoe",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/foeoe.mp4",
+      "words": [
+        "føø (noen er klumsete/distre)",
+        "føø"
+      ]
+    },
+    {
+      "id": "hmf",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hmf.mp4",
+      "words": [
+        "hmf (vente lenge)",
+        "hmf"
+      ]
+    },
+    {
+      "id": "m-m",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/m-m.mp4",
+      "words": [
+        "m-m (noe/noen er ikke her/der)",
+        "m-m"
+      ]
+    },
+    {
+      "id": "OO",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/OO.mp4",
+      "words": [
+        "OO (jeg/noen har ikke gjort)",
+        "OO"
+      ]
+    },
+    {
+      "id": "paff",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/paff.mp4",
+      "words": [
+        "paff (å dra et sted)",
+        "paff"
+      ]
+    },
+    {
+      "id": "uuu",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/uuu.mp4",
+      "words": [
+        "uuu (noe/noen er ikke der)",
+        "uuu"
+      ]
+    },
+    {
+      "id": "yff",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/yff.mp4",
+      "words": [
+        "yff (jeg vet ikke)",
+        "yff"
+      ]
+    },
+    {
+      "id": "skap",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/skap.mp4",
+      "words": [
+        "skap"
+      ]
+    },
+    {
+      "id": "hyller",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hyller.mp4",
+      "words": [
+        "hyller",
+        "hylle"
+      ]
+    },
+    {
+      "id": "lampe",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/lampe.mp4",
+      "words": [
+        "lampe"
+      ]
+    },
+    {
+      "id": "seng",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/seng.mp4",
+      "words": [
+        "seng"
+      ]
+    },
+    {
+      "id": "skuffer",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/skuffer.mp4",
+      "words": [
+        "skuffer",
+        "skuff"
+      ]
+    },
+    {
+      "id": "sofa",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sofa.mp4",
+      "words": [
+        "sofa"
+      ]
+    },
+    {
+      "id": "speil",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/speil.mp4",
+      "words": [
+        "speil"
+      ]
+    },
+    {
+      "id": "vask",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vask.mp4",
+      "words": [
+        "vask (servant)",
+        "vask"
+      ]
+    },
+    {
+      "id": "naturfag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/naturfag.mp4",
+      "words": [
+        "naturfag"
+      ]
+    },
+    {
+      "id": "engelsk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/engelsk.mp4",
+      "words": [
+        "engelsk"
+      ]
+    },
+    {
+      "id": "gym",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gym.mp4",
+      "words": [
+        "gym"
+      ]
+    },
+    {
+      "id": "kunst og haandverk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kunst+og+haandverk.mp4",
+      "words": [
+        "kunst og håndverk",
+        "kunst og håndtverk",
+        "kunst & håndverk"
+      ]
+    },
+    {
+      "id": "matte",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/matte.mp4",
+      "words": [
+        "matte (matematikk)",
+        "matte"
+      ]
+    },
+    {
+      "id": "norsk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/norsk.mp4",
+      "words": [
+        "norsk"
+      ]
+    },
+    {
+      "id": "religion",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/religion.mp4",
+      "words": [
+        "religion"
+      ]
+    },
+    {
+      "id": "samfunnsfag",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/samfunnsfag.mp4",
+      "words": [
+        "samfunnsfag"
+      ]
+    },
+    {
+      "id": "kald",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kald.mp4",
+      "words": [
+        "kald"
+      ]
+    },
+    {
+      "id": "blomster",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/blomster.mp4",
+      "words": [
+        "blomster"
+      ]
+    },
+    {
+      "id": "hoest",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hoest.mp4",
+      "words": [
+        "høst"
+      ]
+    },
+    {
+      "id": "snoe",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/snoe.mp4",
+      "words": [
+        "snø"
+      ]
+    },
+    {
+      "id": "sommer",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sommer.mp4",
+      "words": [
+        "sommer"
+      ]
+    },
+    {
+      "id": "vaar",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vaar.mp4",
+      "words": [
+        "vår"
+      ]
+    },
+    {
+      "id": "varmt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/varmt.mp4",
+      "words": [
+        "varmt"
+      ]
+    },
+    {
+      "id": "vinter",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/vinter.mp4",
+      "words": [
+        "vinter"
+      ]
+    },
+    {
+      "id": "mose",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mose.mp4",
+      "words": [
+        "mose (plantetype)",
+        "mose"
+      ]
+    },
+    {
+      "id": "blad",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/blad.mp4",
+      "words": [
+        "blad"
+      ]
+    },
+    {
+      "id": "blomst",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/blomst.mp4",
+      "words": [
+        "blomst"
+      ]
+    },
+    {
+      "id": "elv",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/elv.mp4",
+      "words": [
+        "elv"
+      ]
+    },
+    {
+      "id": "gress",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/gress.mp4",
+      "words": [
+        "gress"
+      ]
+    },
+    {
+      "id": "natur",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/natur.mp4",
+      "words": [
+        "natur"
+      ]
+    },
+    {
+      "id": "skog",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/skog.mp4",
+      "words": [
+        "skog"
+      ]
+    },
+    {
+      "id": "tre",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/tre.mp4",
+      "words": [
+        "tre"
+      ]
+    },
+    {
+      "id": "brannmann",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/brannmann.mp4",
+      "words": [
+        "brannmann"
+      ]
+    },
+    {
+      "id": "advokat",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/advokat.mp4",
+      "words": [
+        "advokat"
+      ]
+    },
+    {
+      "id": "journalist",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/journalist.mp4",
+      "words": [
+        "journalist"
+      ]
+    },
+    {
+      "id": "konsulent",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/konsulent.mp4",
+      "words": [
+        "konsulent"
+      ]
+    },
+    {
+      "id": "mekaniker",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/mekaniker.mp4",
+      "words": [
+        "mekaniker"
+      ]
+    },
+    {
+      "id": "politi",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/politi.mp4",
+      "words": [
+        "politi"
+      ]
+    },
+    {
+      "id": "renholder",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/renholder.mp4",
+      "words": [
+        "renholder"
+      ]
+    },
+    {
+      "id": "tannlege",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/tannlege.mp4",
+      "words": [
+        "tannlege"
+      ]
+    },
+    {
+      "id": "turn",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/turn.mp4",
+      "words": [
+        "turn"
+      ]
+    },
+    {
+      "id": "fotball",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/fotball.mp4",
+      "words": [
+        "fotball"
+      ]
+    },
+    {
+      "id": "fritid",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/fritid.mp4",
+      "words": [
+        "fritid"
+      ]
+    },
+    {
+      "id": "haandball",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/haandball.mp4",
+      "words": [
+        "håndball"
+      ]
+    },
+    {
+      "id": "hobby",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/hobby.mp4",
+      "words": [
+        "hobby"
+      ]
+    },
+    {
+      "id": "korps",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/korps.mp4",
+      "words": [
+        "korps"
+      ]
+    },
+    {
+      "id": "sjakk",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/sjakk.mp4",
+      "words": [
+        "sjakk"
+      ]
+    },
+    {
+      "id": "speider",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/speider.mp4",
+      "words": [
+        "speider"
+      ]
+    },
+    {
+      "id": "kake",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kake.mp4",
+      "words": [
+        "kake"
+      ]
+    },
+    {
+      "id": "frukt",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/frukt.mp4",
+      "words": [
+        "frukt"
+      ]
+    },
+    {
+      "id": "juice",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/juice.mp4",
+      "words": [
+        "juice",
+        "jus"
+      ]
+    },
+    {
+      "id": "kylling",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/kylling.mp4",
+      "words": [
+        "kylling"
+      ]
+    },
+    {
+      "id": "pasta",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pasta.mp4",
+      "words": [
+        "pasta"
+      ]
+    },
+    {
+      "id": "pizza",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/pizza.mp4",
+      "words": [
+        "pizza"
+      ]
+    },
+    {
+      "id": "salat",
+      "url": "https://s3.eu-west-2.amazonaws.com/signs-nsl/salat.mp4",
+      "words": [
+        "salat"
+      ]
+    }
+  ]
+}

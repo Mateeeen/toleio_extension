@@ -1,0 +1,78 @@
+.toleio-player {
+  border-radius: 10px !important;
+  background: white !important;
+  width: 460px !important;
+  height: 330px !important;
+
+  & .video-react-big-play-button {
+    display: none !important;
+  }
+
+  & .video-react-control-bar {
+    display: flex !important;
+    position: relative !important;
+    bottom: 2px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    background: url("../assets/bg/BG_controls_500px.png") no-repeat !important;
+    background-size: 445px 71px !important;
+    width: 445px !important;
+    height: 71px !important;
+    padding: 0 0 5px 0 !important;
+
+    & label {
+      font-size: 10px !important;
+      font-weight: bold !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      color: white !important;
+    }
+
+    & .video-react-slow-control-container {
+      display: flex !important;
+      width: 77px !important;
+      height: 68px !important;
+      flex-flow: column nowrap !important;
+      align-items: center !important;
+      justify-content: space-between !important;
+      margin: 12px 12px 6px 12px !important;
+    }
+
+    & .video-react-play-control-container {
+      display: flex !important;
+      width: 67px !important;
+      height: 71px !important;
+      flex-flow: column nowrap !important;
+      align-items: center !important;
+      justify-content: space-between !important;
+      margin: 0px 7px !important;
+    }
+
+    & .video-react-play-control {
+      margin: 12px 12px 6px 12px !important;
+      background-size: 40px !important;
+      width: 40px !important;
+      height: 40px !important;
+
+      &.video-react-paused {
+        &::before {
+          content: "" !important;
+          background: url("../assets/btns/Btn_play.png") no-repeat !important;
+          background-size: 40px !important;
+          width: 40px !important;
+          height: 40px !important;
+        }
+      }
+
+      &.video-react-playing {
+        &::before {
+          content: "" !important;
+          background: url("../assets/btns/Btn_pause.png") no-repeat !important;
+          background-size: 40px !important;
+          width: 40px !important;
+          height: 40px !important;
+        }
+      }
+    }
+  }
+}

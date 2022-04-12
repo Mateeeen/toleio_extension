@@ -1,0 +1,79 @@
+{
+  "name": "toleio",
+  "version": "0.2.9",
+  "license": "SEE LICENSE IN license.md",
+  "author": {
+    "name": "Paweł Otto",
+    "url": "https://softek.dev"
+  },
+  "private": true,
+  "scripts": {
+    "build-extension:dev": "webpack --config webpack/build-dev.webpack.config.js",
+    "build-extension:prod": "webpack --config webpack/build-prod.webpack.config.js",
+    "pack-extension": "cd dist && web-ext build --overwrite-dest",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@rematch/core": "^2.0.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "classnames": "^2.2.6",
+    "css-loader": "^5.1.3",
+    "file-loader": "^6.2.0",
+    "formik": "^2.2.6",
+    "jquery": "^3.6.0",
+    "node-sass": "^5.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-responsive-modal": "^6.0.1",
+    "react-scripts": "4.0.2",
+    "react-select": "^4.0.2",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.1.2",
+    "video-react": "^0.14.1",
+    "web-vitals": "^1.0.1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.11",
+    "@types/jest": "^26.0.15",
+    "@types/jquery": "^3.5.5",
+    "@types/lodash": "^4.14.168",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-redux": "^7.1.16",
+    "@types/react-select": "^4.0.12",
+    "@types/styled-components": "^5.1.7",
+    "base64-inline-loader": "^1.1.1",
+    "copy-webpack-plugin": "^5.0.3",
+    "sass-loader": "^11.0.1",
+    "style-loader": "^2.0.0",
+    "ts-loader": "^8.0.18",
+    "web-ext": "^6.0.0",
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0"
+  }
+}

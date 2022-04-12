@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700&display=swap");
+
+.react-responsive-modal-root {
+  z-index: 10000;
+}
+
+.react-responsive-modal-container {
+  text-align: right;
+}
+
+.toleio-translatable {
+  border-bottom: 3px solid royalblue;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.toleio-overlay {
+  background: transparent;
+}
+
+.toleio-modal {
+  border-radius: 14px;
+  padding: 0;
+
+  & * {
+    font-family: "Nunito Sans", sans-serif;
+  }
+}
+
+.toleio-modal--expanded {
+  background: transparent url("../assets/bg/BG_Expanded_500px.png") no-repeat;
+  width: 500px;
+  height: 568px;
+}
+
+.toleio-modal--collapsed {
+  background: transparent url("../assets/bg/BG_Collapsed_500px.png") no-repeat;
+  width: 500px;
+  height: 159px;
+}
+
+*:focus {
+  outline: none;
+}
